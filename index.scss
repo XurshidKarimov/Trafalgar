@@ -34,7 +34,7 @@ a{
             justify-content: space-between;
             align-items: center;
             background-color: white;
-    
+            
             & .head__section-logo-name{
                 display: flex;
                 align-items: center;
@@ -72,8 +72,9 @@ a{
                         color: $main__color__2;
                     }
                 }
-            }
+            }            
         }
+
         &__content{
             display: flex;
             align-items: center;
